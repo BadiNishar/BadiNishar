@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BadiNishar
+- 👋 Hi, I’m BadiNishar
 - 👀 I’m interested in the data field
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on data & coding world
